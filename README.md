@@ -5,6 +5,7 @@ I'm Carl, an aspiring Backend / Systems Developer from the Philippines.
 - 💻 Interested in backend systems, databases, and APIs
 - 🛠️ Working with PHP, MySQL, Java, and Git
 - 🚀 Building projects while continuously improving my skills
+- 🤖 Use AI tools (ChatGPT, Copilot) to accelerate learning and debug code
 
 <!--
 **boybu456/boybu456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
