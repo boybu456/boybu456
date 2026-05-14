@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Carl, an aspiring Backend / Systems Developer from the Philippines.
+I'm Carl, an aspiring Backend / Systems Developer.
 
 - 🌱 Currently learning Laravel and modern web development
 - 💻 Interested in backend systems, databases, and APIs
