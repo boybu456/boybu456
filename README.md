@@ -1,4 +1,10 @@
 ## Hi there 👋
+I'm Carl, an aspiring Backend / Systems Developer from the Philippines.
+
+- 🌱 Currently learning Laravel and modern web development
+- 💻 Interested in backend systems, databases, and APIs
+- 🛠️ Working with PHP, MySQL, Java, and Git
+- 🚀 Building projects while continuously improving my skills
 
 <!--
 **boybu456/boybu456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
